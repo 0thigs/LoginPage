@@ -1,0 +1,73 @@
+.login-container { 
+    color: rgb(192, 192, 192);
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 360px;
+    height: 400px;
+}
+
+.t-c {
+    text-align: start;    
+    margin-bottom: 20px;
+}
+
+.sing-c {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.singup-btn {
+    width: 100px;
+    height: 60px;
+    color: rgb(218, 218, 218);
+    border: 0;
+    background-color: purple;
+    border: solid 1px black;
+    border-radius: 100px;
+    margin-bottom: 30px;
+    font-size: 20px;
+}
+
+.input {
+    margin-bottom: 30px;
+}
+
+.name {
+    font-size: 17px;
+}
+
+input[type="text"], input[type="password"] {
+    border: none;
+    font-size: 20px;
+    background-color: transparent;
+    border-bottom: solid 1px black;
+    width: 20rem;
+    transition: border-bottom 1s;
+}
+input[type="text"]:focus , input[type="password"]:focus {
+    border-bottom: solid 1px rgb(35, 144, 247);
+    outline: 0;
+}
+
+p {
+    margin-bottom: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.singin-link {
+    color: gray;
+    font-size: 20px;
+    transition: all 1s;
+}
+.singin-link:hover {
+    color: rgb(192, 192, 192);
+    font-size: 20px;
+}
