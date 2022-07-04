@@ -100,7 +100,10 @@ a {
 }
 
 @media (max-width: 900px) {
-    .login-container {
-        
-  }
+    .name { 
+        text-align: center;
+    }
+    input::placeholder {
+        text-align: center;
+    }
 }
