@@ -1,9 +1,9 @@
-# Before starting the project, install the dependencies using the following command inside the folder containing the files:
+### Before starting the project, install the dependencies using the following command inside the folder containing the files:
 
-### npm install
+'npm install'
 
-# Now, to run the project, type in your terminal inside the files folder:
+### Now, to run the project, type in your terminal inside the files folder:
 
-### npm start
+'npm start'
 
-# Soon it will open a 'localhost'!
+### Soon it will open a 'localhost'!
