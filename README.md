@@ -1,9 +1,9 @@
-Antes de cmeçar o projeto, instale as dependencias usando o seguinte comando dentro da pastasque contem os aquivos: 
+Before starting the project, install the dependencies using the following command inside the folder containing the files:
 
 ##npm install
 
-Agora, para rodar o projeto, digite no seu terminal dentro da pasta dos arquivos:
+Now, to run the project, type in your terminal inside the files folder:
 
 ##npm start
 
-Logo Abrirá um 'localhost'
+Soon it will open a 'localhost'!
