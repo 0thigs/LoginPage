@@ -1,3 +1,9 @@
-npm Start
+Antes de cmeçar o projeto, instale as dependencias usando o seguinte comando dentro da pastasque contem os aquivos: 
 
-To Open the project on the "localhost:3000" port.
+##npm install
+
+Agora, para rodar o projeto, digite no seu terminal dentro da pasta dos arquivos:
+
+##npm start
+
+Logo Abrirá um 'localhost'

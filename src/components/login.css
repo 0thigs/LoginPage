@@ -124,9 +124,9 @@ a {
         justify-content: center;
         align-items: center;
     }
-      .main-container {
+    .main-container {
         width: 22rem;
-        height: 70%;
+        height: 80%;
         border-radius: 10px;
         background-color: #1b1b1b;
     }
@@ -136,4 +136,28 @@ a {
     input::placeholder {
         text-align: center;
     }
+}
+
+/*-----ERROR AND SUCCESSS-----*/
+
+.success-c {
+    width: 20rem;
+    height: 5rem;
+    text-align: center;
+}
+
+.error-c {
+    width: 20rem;
+    height: 7rem;
+    text-align: center;
+}
+
+.success {
+    font-size: 25px;
+    color: rgb(16, 255, 16);
+}
+
+.error {
+    color: rgb(255, 21, 21); 
+    font-size: 25px;
 }
