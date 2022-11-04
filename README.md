@@ -37,7 +37,7 @@ A Simple Login Page using ReactJs!!
 
 - Complete Name
 - Email
-- Passowrd
+- Password
 - Agree with Terms 
 
 # What skills I Learned and I used?
